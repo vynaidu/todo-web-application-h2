@@ -108,7 +108,7 @@
 		</dependency>
 	</dependencies>
 
-	<build>
+	<!-- <build>
 		<finalName>todo-web-application-h2</finalName>
 		<plugins>
 			<plugin>
@@ -134,7 +134,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-	</build>
+	</build> -->
 	<repositories>
 		<repository>
 			<id>spring-milestones</id>
