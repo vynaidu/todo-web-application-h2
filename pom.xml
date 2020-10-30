@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vyn.web.app.h2</groupId>
-	<artifactId>todo-web-app-h2</artifactId>
+	<artifactId>02-todo-web-application-h2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>todo-web-application-h2</name>
